@@ -1,0 +1,16 @@
+{
+  "name": "dbs-sailing-notifier",
+  "version": "1.0.0",
+  "description": "dbs sailing notifier",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "bill",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "mailgun.js": "^10.2.3"
+  }
+}
